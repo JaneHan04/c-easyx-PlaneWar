@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  飞机大战.cpp
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(164,18): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(283,18): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(303,23): warning C4018: “>”: 有符号/无符号不匹配
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(582,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(592,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(596,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\飞机大战.cpp(310): warning C4715: “Timer”: 不是所有的控件路径都返回值
+  LINK : 没有找到 D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\x64\Debug.exe\飞机大战.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Project1.vcxproj -> D:\重要重要重要\十万超级重要文档\期末作业\C语言期末项目\代码\飞机大战\x64\Debug.exe\飞机大战.exe
